@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.lang.Math;
 
+//Falta ejercicio 7 expresiones aritméticas.
+
+
+
 
 public class Expresiones {
     public static void main(String[] args) {
